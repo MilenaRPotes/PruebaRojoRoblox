@@ -1,0 +1,23 @@
+{
+  "name": "PruebasRojo",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
+    "ServerScriptService": {
+      "Services": {
+        "$path": "src/services"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Controllers": {
+          "$path": "src/controllers"
+        }
+      }
+    }
+  }
+}
